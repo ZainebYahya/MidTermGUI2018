@@ -1,0 +1,10 @@
+C:\Users\Safa\source\repos\MidTermGUI\bin\Debug\MidTermGUI.exe.config
+C:\Users\Safa\source\repos\MidTermGUI\bin\Debug\MidTermGUI.exe
+C:\Users\Safa\source\repos\MidTermGUI\bin\Debug\MidTermGUI.pdb
+C:\Users\Safa\source\repos\MidTermGUI\obj\Debug\MidTermGUI.csprojResolveAssemblyReference.cache
+C:\Users\Safa\source\repos\MidTermGUI\obj\Debug\MidTermGUI.Form1.resources
+C:\Users\Safa\source\repos\MidTermGUI\obj\Debug\MidTermGUI.Properties.Resources.resources
+C:\Users\Safa\source\repos\MidTermGUI\obj\Debug\MidTermGUI.csproj.GenerateResource.Cache
+C:\Users\Safa\source\repos\MidTermGUI\obj\Debug\MidTermGUI.csproj.CoreCompileInputs.cache
+C:\Users\Safa\source\repos\MidTermGUI\obj\Debug\MidTermGUI.exe
+C:\Users\Safa\source\repos\MidTermGUI\obj\Debug\MidTermGUI.pdb

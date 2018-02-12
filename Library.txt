@@ -1,0 +1,14 @@
+Google It!,Kamel Rushaidat,2/12/2018 12:00:00 AM,On Shelf
+Choke,Chuck Palahniuk,2/9/2018 12:00:00 AM,On Shelf
+House of Leaves, Mark Z. Danielewski,2/12/2018 12:00:00 AM,On Shelf
+Fear and Loathing in Las Vegas,Hunter S. Thompson,,On Shelf
+The Case Against the Global Economy and for a Turn Towards Localization,Jerry Mander,1/1/0001,On Shelf
+Pragmatic Unit Testing in C# with NUnit (2nd edition),Andy Hunt Dave Thomas Matt Hargett,2/12/2018 12:00:00 AM,On Shelf
+The Pragmatic Programmer,Andrew Hunt David Thomas,2/12/2018 12:00:00 AM,On Shelf
+HTML5 and CSS3 (2nd edition),Brian P. Hogan,2/12/2018 12:00:00 AM,On Shelf
+Simplifying JavaScript,Joe Morgan,2/12/2018 12:00:00 AM,On Shelf
+Hello Android (4th edition),Ed Burnette,1/1/0001,On Shelf
+Programming Ruby 1.9 & 2.0,Dave Thomas Chad Fowler Andy Hunt,1/1/0001,On Shelf
+Learning ASP.NET Core 2.0,Jason De Oliveira Michel Bruchet,2/9/2018 12:00:00 AM,On Shelf
+Clean Code,Robert C. Martin,2/12/2018 11:52:49 AM,On Shelf
+Fight Club,Chuck Palahniuk,2/12/2018 12:00:00 AM,On Shelf
